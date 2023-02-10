@@ -18,6 +18,9 @@ public class ErrorClass {
     	if(a == 7) {
     		System.out.println(7);
     	}
+    	if(a == 5) {
+    		System.out.println(5);
+    	}
     	if(a == 6) {
     		System.out.println(6);
     	} return;
