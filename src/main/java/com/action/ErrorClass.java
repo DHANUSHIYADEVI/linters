@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class ErrorClass {
     public static void main(String arg[]) {
     	Scanner sc = new Scanner(System.in);
+    	int hello = 1;
     	int a = sc.nextInt();
     	if(a == 10) {
     		System.out.println(10);
