@@ -23,6 +23,13 @@ public class ErrorClass {
     	}
     	if(a == 6) {
     		System.out.println(6);
-    	} return;
+    	} 
+    	if(true) {
+    		if(true) {
+    			if(true) {
+    				System.out.println("ok");
+    			}
+    		}
+    	}
     }
 }

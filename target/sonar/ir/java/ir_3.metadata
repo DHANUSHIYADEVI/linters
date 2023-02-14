@@ -1,0 +1,4 @@
+com.action.ErrorClass#main([Ljava/lang/String;)V
+java.util.Scanner#instance-init#
+java.util.Scanner#nextInt()I
+java.util.Scanner#<init>(Ljava/io/InputStream;)V
